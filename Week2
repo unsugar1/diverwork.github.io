@@ -1,0 +1,67 @@
+ <meta charset="UTF-8">
+    <meta name="description" content="wangzhaogui's page,let u know me" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <style>
+        body {
+            padding: 10px 0;
+        }
+    </style>
+    <title>Week 2 (28 August - 3 September)</title>
+</head>
+<body>
+     <div class="info-wrap">
+      <div class="img">
+        <img src="https://s1.ax1x.com/2023/09/02/pPBdMzd.jpg" alt="">
+      </div>
+      <div class="info-right">
+    <h1>Week 2 (28 August - 3 September)</h1>
+  
+    <dl>
+        <dt>Second Week Schedule</dt>
+        <dd>In this week, the team mainly investigated the project background and the development status of underwater equipment, and made a ppt to report the research results to the tutor.
+
+
+<dd>
+1. Opening Equipment
+<dd>
+Mechanical opening 
+Advantages: simple operation, low cost, rich tool types, can adapt to complex environments. 
+Disadvantages: Tools wear out and may need to be replaced frequently in Marine environments; Need to consider the type of tool and the mode of movement, the structure is more complex. 
+Hot opening 
+Advantages: High opening efficiency, fast speed, high precision, good adaptability to materials. 
+Disadvantages: In the Marine environment will lose a lot of heat energy, resulting in waste; It's not safe for sunken tanks with flammable and explosive materials. 
+Cold opening 
+Advantages: Good material adaptability, the cutting process does not produce cutting heat, the cutting process is relatively safe, to adapt to the opening of flammable and explosive materials. 
+Disadvantages: The cutting speed is slow, and the hole opening effect is not good for thicker materials.
+
+
+<dd>
+2. Equipment Automation
+<dd>
+Regarding the automation and electronic control of equipment, our group is currently focusing on remote monitoring technology and visualization. Regarding visualization technology, due to the complex underwater operating environment and poor visibility, it is difficult for underwater cameras to meet operational requirements. Our current vision is to use virtual reality technology to create a three-dimensional physical model. On the basis of data transmission, the unified transmission protocol and database are adopted, and the local area network is connected to form a synchronous system in space and time to provide reliable technical support and data support for operation safety.
+
+
+<dd>
+3. Motion Planning Analysis
+<dd>
+Motion planning optimization: Optimize the motion planning of the robot arm so that it can complete tasks more efficiently, such as reducing movement time and reducing energy consumption.
+
+Motion planning simulation: Simulation software is used to simulate the motion planning of the robotic arm, evaluate its performance and stability, identify potential problems and make improvements.
+<dd>
+4. Profile Design
+<dd>
+The shape of an object is designed to give it the desired performance in a fluid under specific flow field conditions, usually with the aim of reducing the resistance of the object in the flow field and allowing the fluid to flow smoothly around the object. After web research streamline shape is the best choice for the system we are designing.
+
+
+<dd>
+5. Robotic Arm End-effector
+<dd>
+The end effector of the robot also needs to have the repeatability required for the job. 
+The robot end-effector should be simple and compact in structure and light in weight to reduce the load on the arm. The design uses serialized and universal special robot end effectors that can be replaced quickly.
+
+
+
+<dd>
+
+    </dl>
+        
